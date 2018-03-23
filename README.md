@@ -8,8 +8,8 @@ for the purpose of safegaurding the user's critical information(i.e. password).
 ## Getting Started
 
 Begin by either:
-  1) cloning the "node-jwt-auth" repository to your local device ("https://github.com/Thinkful-Ed/node-jwt-auth/")
-  2) remixing the glitch at ("https://glitch.com/edit/#!/feather-pizza")
+  1) cloning the "node-jwt-auth" [repository]("https://github.com/Thinkful-Ed/node-jwt-auth/") to your local device 
+  2) remixing this [glitch]("https://glitch.com/edit/#!/feather-pizza")
   
 Steps if you cloned github repository:  
   1) you will need to install 3 pieces of software:  
@@ -20,13 +20,22 @@ Steps if you cloned github repository:
     a)window one:  
       - type cd to move to general directory
       - type mongod to initiate the server
+     
     b)window two:  
       - locate the directory you cloned your version of the repository into
       - type "npm test" to make sure there are no issues with the code
       - type "npm start" to start up the local server
+      
   3) open Postman  
     a) create a new postman session  
     b) for the url prefix input "http://localhost:8080/"  
+  4) continue following instructions found in DEVELOPMENT.md
+
+Steps if you remixed the glitch:
+  1) click the project name to open a dropdown menu
+  2) click "Remix This" button to create a remixed version of the app
+  3) copy/paste the url in the dropdown menu into the url section of postman
+  4) continue following instructions found in DEVELOPMENT.md
   
 
 ### Prerequisites
