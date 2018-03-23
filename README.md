@@ -48,6 +48,11 @@ Give examples
 
 ## Running the tests
 
+Running tests locally:
+  1) have two windows open
+    - one running mongod by inputing "mongod" into the console (last step for this window)
+    - another located to your cloned project's folder
+  2) in the second window type "npm test" to begin testing  
 
 
 ### Break down into end to end tests
