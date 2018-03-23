@@ -1,3 +1,5 @@
+##  Basic Requests
+      
 1) to sign up as a user:  
       - set the postman request to POST
       - append "api/users" onto the end of your url prefix
