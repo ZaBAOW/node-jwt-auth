@@ -8,8 +8,8 @@ for the purpose of safegaurding the user's critical information(i.e. password).
 ## Getting Started
 
 Begin by either:
-  1) cloning the "node-jwt-auth" [repository]("https://github.com/Thinkful-Ed/node-jwt-auth/") to your local device 
-  2) remixing this [glitch]("https://glitch.com/edit/#!/feather-pizza")
+  1) cloning the "node-jwt-auth" [repository](https://github.com/Thinkful-Ed/node-jwt-auth/) to your local device 
+  2) remixing this [glitch](https://glitch.com/edit/#!/feather-pizza)
   
 Steps if you cloned github repository:  
   1) you will need to install 3 pieces of software:  
