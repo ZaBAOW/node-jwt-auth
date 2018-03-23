@@ -11,9 +11,9 @@ Begin by either:
   
 Steps if you cloned github repository:  
   1) you will need to install 3 pieces of software:  
-    a) gitbash ("https://gitforwindows.org/")  
-    b) Postman ("https://www.getpostman.com/")  
-    c) Mongo ("https://www.mongodb.com/download-center#community")  
+    a) [gitbash](https://gitforwindows.org/)  
+    b) [Postman](https://www.getpostman.com/)  
+    c) [Mongo](https://www.mongodb.com/download-center#community)  
   2)open 2 seperate git bash windows  
     a)window one:  
       - type cd to move to general directory
@@ -119,21 +119,18 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+to do
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Andrew Kadesky (no contributors)
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Andrew Kadesky
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
