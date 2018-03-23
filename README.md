@@ -3,6 +3,8 @@
 JWT authentication tests for furthering my understanding of how JWT authentication works, as well as the process of creating a JWT for a user
 for the purpose of safegaurding the user's critical information(i.e. password).
 
+# Version 0.0.1
+
 ## Getting Started
 
 Begin by either:
@@ -75,35 +77,13 @@ to do
 Give examples
 ```
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-
-```
+to do
 
 ### And coding style tests
 
@@ -115,7 +95,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+to do (heroku)
 
 ## Built With
 
