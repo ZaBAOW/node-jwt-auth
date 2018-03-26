@@ -12,11 +12,7 @@ Begin by either:
   2) remixing this [glitch](https://glitch.com/edit/#!/feather-pizza)
   
 Steps if you cloned github repository:  
-  1) you will need to install 3 pieces of software:  
-    a) [gitbash](https://gitforwindows.org/)  
-    b) [Postman](https://www.getpostman.com/)  
-    c) [Mongo](https://www.mongodb.com/download-center#community)  
-  2)open 2 seperate git bash windows  
+  1)open 2 seperate git bash windows  
     a)window one:  
       - type cd to move to general directory
       - type mongod to initiate the server
@@ -26,10 +22,10 @@ Steps if you cloned github repository:
       - type "npm test" to make sure there are no issues with the code
       - type "npm start" to start up the local server
       
-  3) open Postman  
+  2) open Postman  
     a) create a new postman session  
     b) for the url prefix input "http://localhost:8080/"  
-  4) continue following instructions found in DEVELOPMENT.md
+  3) continue following instructions found in DEVELOPMENT.md
 
 Steps if you remixed the glitch:
   1) click the project name to open a dropdown menu
@@ -40,11 +36,11 @@ Steps if you remixed the glitch:
 
 ### Prerequisites
 
-to do
-
-```
-Give examples
-```
+#### Windows Users
+You will need to install 3 pieces of software:  
+    1) [gitbash](https://gitforwindows.org/)  
+    2) [Postman](https://www.getpostman.com/)  
+    3) [Mongo](https://www.mongodb.com/download-center#community)  
 
 ## Running the tests
 
